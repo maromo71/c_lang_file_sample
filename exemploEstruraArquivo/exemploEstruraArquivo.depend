@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1654006288 source:/home/maromo/fatec/lpmanha/aula3005/exemploEstruraArquivo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"carrinho.h"
+	<time.h>
+
+1653951101 /home/maromo/fatec/lpmanha/aula3005/exemploEstruraArquivo/carrinho.h
+
+1654006449 source:/home/maromo/fatec/lpmanha/aula3005/exemploEstruraArquivo/carrinho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	<time.h>
+	"carrinho.h"
+
